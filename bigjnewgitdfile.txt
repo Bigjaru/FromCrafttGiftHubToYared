@@ -1,0 +1,1 @@
+BigJ is practicing using gitdesktop bn local repo C:\Users\bigoa\Documents\GitHub\FromCrafttGiftHubToYared and internet repo on github https://github.com/Bigjaru/FromCrafttGiftHubToYared. This is another file bigj is creating on local repo and pushing to the internet repo owned by bigjaru.
